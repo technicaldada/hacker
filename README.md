@@ -1,7 +1,7 @@
 # hacker
 Hacker-Dada is a python project that aims to match the website hackertyper, but in a terminal
 ## USE
-To run hacker-terminal simply ensure there is a file named 'input.txt.hacker'.
+To run hacker-dada simply ensure there is a file named 'input.txt.hacker'.
 to run type following commands
 <br>
 git clone https://github.com/technicaldada/hacker
@@ -13,4 +13,4 @@ chmod +x hacker.py
 python hacker.py
 <br>
 <br>
-When the file is fully printed press 'Esc' to close the program.
+When the file is fully printed press 'Ctrl+c' to close the program.
